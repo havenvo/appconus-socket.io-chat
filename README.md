@@ -7,12 +7,13 @@ A simple chat demo for socket.io
 
 ```
 $ npm install
-$ npm install
 $ node .
 ```
 
 And point your browser to `http://localhost:3000`. Optionally, specify
 a port by supplying the `PORT` env variable.
+Example: PORT=3001 node index.js
+Then the app will up and listen on port 3001.
 
 ## Features
 
